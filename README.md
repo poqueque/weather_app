@@ -4,13 +4,8 @@ A Weather App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is an coding example developed during the course 
+[Desenvolupament d'aplicacions mòbils per IOS i Android amb Flutter](https://serveiocupacio.gencat.cat/ca/soc/com-ens-organitzem/centres-propis-formacio-cifo-cfpa/centres-dinnovacio-i-formacio-ocupacional-cifo/cifo-hospitalet-de-llobregat/detall/FLUTTER-DART-00001)
+imparted by Eduard Carreras at CIFO L'Hospitalet on October-Desember 2022.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can find more information at [CIFO L'Hospitalet](https://cifovirtual.cat/)
